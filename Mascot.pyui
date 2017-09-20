@@ -1,0 +1,122 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{33, 26}, {136, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "school_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "FC1926F1-CE26-4648-86C8-30DC80EF9B27",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "School",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{27, 109}, {142, 38}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "mother_teresa_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Mother Teresa HS",
+          "uuid" : "D1DB77D9-B0C6-4714-A576-58323F0E0078",
+          "class" : "Button",
+          "font_bold" : false,
+          "name" : "mother_teresa_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{27, 174}, {142, 35}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "st_joe_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "St. Joe HS",
+          "uuid" : "F88829EA-6D7E-4652-B9A0-64C08867D04C",
+          "class" : "Button",
+          "name" : "st_joe_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{27, 240}, {142, 37}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "st_mark_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "St. Mark HS",
+          "uuid" : "85D7708E-2F6D-46E0-8D94-4BAB2DC8D92D",
+          "class" : "Button",
+          "name" : "st_mark_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{208, 109}, {162, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "school_name_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "0336813D-4742-4C59-B305-6ECD1DA313A5",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Mother Teresa HS",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{208, 158}, {162, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "mascot_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "AFD31B70-3887-4A67-A83D-28445F495163",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Titans",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
